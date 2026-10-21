@@ -24,7 +24,6 @@ All wording lives in `js/main.js`, in two blocks: `en` and `fr`. Change the same
 Keep each photo under ~500 KB (export at 80% JPEG quality) so the site loads fast on phones.
 
 ## Still to fill in (search the files for these)
-- `YOUR_CHANNEL` — YouTube handle
 - `YOUR_PAGE` — Facebook
 - `613-000-0000`, `info@yourchurch.ca` — phone and email
 - `giving@yourchurch.ca` — e-Transfer email
