@@ -17,7 +17,7 @@ const T = {
     "nav.events": "Events",
     "nav.give": "Give",
 
-    "hero.eyebrow": "Ottawa · Sundays at 9 a.m.",
+    "hero.eyebrow": "Kingdom of God Centre · Ottawa",
     "hero.title": "A church rooted in the love of God, helping people find and follow Jesus.",
     "hero.cta1": "Plan Your Visit",
     "hero.cta2": "Watch Live",
@@ -93,7 +93,7 @@ const T = {
     "nav.events": "Événements",
     "nav.give": "Donner",
 
-    "hero.eyebrow": "Ottawa · Le dimanche à 9 h",
+    "hero.eyebrow": "Kingdom of God Centre · Ottawa",
     "hero.title": "Une église enracinée dans l'amour de Dieu, qui aide chacun à trouver et à suivre Jésus.",
     "hero.cta1": "Planifier votre visite",
     "hero.cta2": "Regarder en direct",
